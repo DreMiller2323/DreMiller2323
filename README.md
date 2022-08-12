@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DreMiller2323
 - 👀 I’m interested in ... React Front-End/ React-Native/ Java Backend Devolopement/JS EXPRESS Backend
 - 🌱 I’m currently learning ...  JavaScript/Java
-- 💞️ I’m looking to collaborate on ... Any new projects that any coder thats 1-2 years in like myself. 
+- 💞️ I’m looking to collaborate on ... Any new projects that any coder thats 2-3 years in like myself. 
 - 📫 How to reach me ... via email employers please dre.miller3489@gmail.com  
 
 <!---
